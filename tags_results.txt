@@ -1,0 +1,10 @@
+Tag: electronics, Confidence: 0.93
+Tag 'electronics' matches the image content well with confidence 0.93.
+Tag: car, Confidence: 0.77
+Tag 'car' does not match the image content well (low confidence: 0.77).
+Tag: automotive, Confidence: 0.70
+Tag 'automotive' does not match the image content well (low confidence: 0.70).
+Tag: vehicle, Confidence: 0.65
+Tag 'vehicle' does not match the image content well (low confidence: 0.65).
+Tag: land vehicle, Confidence: 0.59
+Tag 'land vehicle' does not match the image content well (low confidence: 0.59).
